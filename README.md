@@ -1,0 +1,1 @@
+The .ipynb notebook contains code to visualise the ingredients used in different cuisine types. This data is one hot encoded and then a few basic machine learning models (Logistic Regression, Random Forest, Linear SVM) are trained to detect the cuisine from the ingredients list.
